@@ -1,0 +1,332 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form31)
+
+1. What is the capital of Rajasthan?
+   A. Leh
+
+   B. Shimla
+
+   C. Chandigarh
+
+   D. Jaipur
+
+2. What is the capital of Himachal Pradesh?
+   A. Shimla
+
+   B. Daman
+
+   C. Chandigarh
+
+   D. Bhubaneswar
+
+3. What is the capital of Lakshadweep?
+   A. Patna
+
+   B. Kavaratti
+
+   C. Aizawl
+
+   D. Bhopal
+
+4. What is the capital of Jammu and Kashmir?
+   A. Srinagar
+
+   B. Dispur
+
+   C. Amaravati
+
+   D. Ranchi
+
+5. What is the capital of Manipur?
+   A. Ranchi
+
+   B. Imphal
+
+   C. Patna
+
+   D. Dispur
+
+6. What is the capital of West Bengal?
+   A. Shimla
+
+   B. Kavaratti
+
+   C. Leh
+
+   D. Kolkata
+
+7. What is the capital of Jharkhand?
+   A. Kolkata
+
+   B. Ranchi
+
+   C. Srinagar
+
+   D. Chennai
+
+8. What is the capital of Nagaland?
+   A. Leh
+
+   B. Mumbai
+
+   C. Kohima
+
+   D. Thiruvananthapuram
+
+9. What is the capital of Andhra Pradesh?
+   A. Shimla
+
+   B. Mumbai
+
+   C. Amaravati
+
+   D. Imphal
+
+10. What is the capital of Maharashtra?
+   A. Mumbai
+
+   B. Kohima
+
+   C. Bengaluru
+
+   D. Agartala
+
+11. What is the capital of Kerala?
+   A. Chandigarh
+
+   B. Thiruvananthapuram
+
+   C. Dehradun
+
+   D. Bhubaneswar
+
+12. What is the capital of Mizoram?
+   A. Kolkata
+
+   B. Aizawl
+
+   C. Itanagar
+
+   D. Dispur
+
+13. What is the capital of Tamil Nadu?
+   A. New Delhi
+
+   B. Kolkata
+
+   C. Agartala
+
+   D. Chennai
+
+14. What is the capital of Tripura?
+   A. Leh
+
+   B. Aizawl
+
+   C. Agartala
+
+   D. Patna
+
+15. What is the capital of Bihar?
+   A. Patna
+
+   B. Chandigarh
+
+   C. Dehradun
+
+   D. Jaipur
+
+16. What is the capital of Andaman and Nicobar Islands?
+   A. Chennai
+
+   B. Leh
+
+   C. Imphal
+
+   D. Port Blair
+
+17. What is the capital of Chandigarh?
+   A. Dehradun
+
+   B. Chandigarh
+
+   C. Shillong
+
+   D. Chennai
+
+18. What is the capital of Sikkim?
+   A. Bhubaneswar
+
+   B. Daman
+
+   C. Gangtok
+
+   D. Chandigarh
+
+19. What is the capital of Assam?
+   A. Panaji
+
+   B. Dispur
+
+   C. Aizawl
+
+   D. Shillong
+
+20. What is the capital of Karnataka?
+   A. Imphal
+
+   B. Hyderabad
+
+   C. Bengaluru
+
+   D. Jaipur
+
+21. What is the capital of Ladakh?
+   A. Agartala
+
+   B. Leh
+
+   C. Dehradun
+
+   D. Imphal
+
+22. What is the capital of Goa?
+   A. Panaji
+
+   B. Bhubaneswar
+
+   C. Raipur
+
+   D. Jaipur
+
+23. What is the capital of Meghalaya?
+   A. Shillong
+
+   B. Kolkata
+
+   C. Gangtok
+
+   D. Shimla
+
+24. What is the capital of Delhi?
+   A. Puducherry
+
+   B. Imphal
+
+   C. Dispur
+
+   D. New Delhi
+
+25. What is the capital of Telangana?
+   A. Shimla
+
+   B. Hyderabad
+
+   C. Kolkata
+
+   D. Chandigarh
+
+26. What is the capital of Uttar Pradesh?
+   A. Lucknow
+
+   B. Raipur
+
+   C. Ranchi
+
+   D. Kavaratti
+
+27. What is the capital of Chhattisgarh?
+   A. Leh
+
+   B. Raipur
+
+   C. Puducherry
+
+   D. Srinagar
+
+28. What is the capital of Arunachal Pradesh?
+   A. Itanagar
+
+   B. Bengaluru
+
+   C. Kolkata
+
+   D. Srinagar
+
+29. What is the capital of Madhya Pradesh?
+   A. Bhopal
+
+   B. Itanagar
+
+   C. Kolkata
+
+   D. Mumbai
+
+30. What is the capital of Gujarat?
+   A. Aizawl
+
+   B. Imphal
+
+   C. Itanagar
+
+   D. Gandhinagar
+
+31. What is the capital of Puducherry?
+   A. Chandigarh
+
+   B. Amaravati
+
+   C. Puducherry
+
+   D. Daman
+
+32. What is the capital of Punjab?
+   A. Dispur
+
+   B. Shimla
+
+   C. Chandigarh
+
+   D. Chandigarh
+
+33. What is the capital of Haryana?
+   A. Chandigarh
+
+   B. Hyderabad
+
+   C. Dispur
+
+   D. Jaipur
+
+34. What is the capital of Dadra and Nagar Haveli and Daman and Diu?
+   A. Thiruvananthapuram
+
+   B. Bengaluru
+
+   C. Daman
+
+   D. Raipur
+
+35. What is the capital of Uttarakhand?
+   A. Srinagar
+
+   B. Gangtok
+
+   C. Dehradun
+
+   D. Itanagar
+
+36. What is the capital of Odisha?
+   A. Leh
+
+   B. Itanagar
+
+   C. Hyderabad
+
+   D. Bhubaneswar
+

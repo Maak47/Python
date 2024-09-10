@@ -1,0 +1,332 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form10)
+
+1. What is the capital of Tripura?
+   A. Agartala
+
+   B. Bhubaneswar
+
+   C. Aizawl
+
+   D. Kohima
+
+2. What is the capital of Jammu and Kashmir?
+   A. Chandigarh
+
+   B. Srinagar
+
+   C. Imphal
+
+   D. Kohima
+
+3. What is the capital of Mizoram?
+   A. Aizawl
+
+   B. Puducherry
+
+   C. Ranchi
+
+   D. Mumbai
+
+4. What is the capital of Dadra and Nagar Haveli and Daman and Diu?
+   A. Daman
+
+   B. Patna
+
+   C. Bhopal
+
+   D. Bhubaneswar
+
+5. What is the capital of Telangana?
+   A. Thiruvananthapuram
+
+   B. Hyderabad
+
+   C. Ranchi
+
+   D. New Delhi
+
+6. What is the capital of Haryana?
+   A. Chandigarh
+
+   B. Bhopal
+
+   C. Bhubaneswar
+
+   D. Chandigarh
+
+7. What is the capital of Bihar?
+   A. Bhopal
+
+   B. New Delhi
+
+   C. Patna
+
+   D. Itanagar
+
+8. What is the capital of Karnataka?
+   A. Bengaluru
+
+   B. Lucknow
+
+   C. Chandigarh
+
+   D. Panaji
+
+9. What is the capital of Gujarat?
+   A. Gandhinagar
+
+   B. Daman
+
+   C. Thiruvananthapuram
+
+   D. Kohima
+
+10. What is the capital of Maharashtra?
+   A. Aizawl
+
+   B. Mumbai
+
+   C. Daman
+
+   D. Port Blair
+
+11. What is the capital of Himachal Pradesh?
+   A. Chandigarh
+
+   B. Srinagar
+
+   C. Shimla
+
+   D. Port Blair
+
+12. What is the capital of Uttarakhand?
+   A. Port Blair
+
+   B. Dehradun
+
+   C. Shillong
+
+   D. Agartala
+
+13. What is the capital of Lakshadweep?
+   A. Panaji
+
+   B. Kavaratti
+
+   C. Amaravati
+
+   D. Bhubaneswar
+
+14. What is the capital of Nagaland?
+   A. Port Blair
+
+   B. Thiruvananthapuram
+
+   C. Shillong
+
+   D. Kohima
+
+15. What is the capital of Delhi?
+   A. Imphal
+
+   B. Dispur
+
+   C. New Delhi
+
+   D. Shimla
+
+16. What is the capital of Madhya Pradesh?
+   A. Leh
+
+   B. Bhopal
+
+   C. Kohima
+
+   D. Chennai
+
+17. What is the capital of Andaman and Nicobar Islands?
+   A. Thiruvananthapuram
+
+   B. Port Blair
+
+   C. Kolkata
+
+   D. Daman
+
+18. What is the capital of Goa?
+   A. Gangtok
+
+   B. Patna
+
+   C. Puducherry
+
+   D. Panaji
+
+19. What is the capital of Puducherry?
+   A. Raipur
+
+   B. Puducherry
+
+   C. Hyderabad
+
+   D. Chandigarh
+
+20. What is the capital of Arunachal Pradesh?
+   A. Leh
+
+   B. Itanagar
+
+   C. Gangtok
+
+   D. Puducherry
+
+21. What is the capital of Chhattisgarh?
+   A. Raipur
+
+   B. Kolkata
+
+   C. Shimla
+
+   D. Itanagar
+
+22. What is the capital of Punjab?
+   A. Ranchi
+
+   B. Port Blair
+
+   C. Hyderabad
+
+   D. Chandigarh
+
+23. What is the capital of Jharkhand?
+   A. Ranchi
+
+   B. Leh
+
+   C. Bengaluru
+
+   D. Kavaratti
+
+24. What is the capital of West Bengal?
+   A. Patna
+
+   B. Kolkata
+
+   C. Leh
+
+   D. Shillong
+
+25. What is the capital of Manipur?
+   A. Imphal
+
+   B. Aizawl
+
+   C. Chandigarh
+
+   D. Agartala
+
+26. What is the capital of Andhra Pradesh?
+   A. Bengaluru
+
+   B. Amaravati
+
+   C. Srinagar
+
+   D. Dispur
+
+27. What is the capital of Chandigarh?
+   A. Srinagar
+
+   B. Chandigarh
+
+   C. Kavaratti
+
+   D. Dispur
+
+28. What is the capital of Meghalaya?
+   A. Bhubaneswar
+
+   B. Itanagar
+
+   C. Shillong
+
+   D. Gangtok
+
+29. What is the capital of Kerala?
+   A. Kavaratti
+
+   B. Thiruvananthapuram
+
+   C. Jaipur
+
+   D. Aizawl
+
+30. What is the capital of Assam?
+   A. Chandigarh
+
+   B. Patna
+
+   C. Shimla
+
+   D. Dispur
+
+31. What is the capital of Ladakh?
+   A. Raipur
+
+   B. Gandhinagar
+
+   C. Hyderabad
+
+   D. Leh
+
+32. What is the capital of Odisha?
+   A. Mumbai
+
+   B. Bhubaneswar
+
+   C. Gandhinagar
+
+   D. Shimla
+
+33. What is the capital of Uttar Pradesh?
+   A. Lucknow
+
+   B. Kolkata
+
+   C. Daman
+
+   D. Shillong
+
+34. What is the capital of Tamil Nadu?
+   A. Chennai
+
+   B. Puducherry
+
+   C. Kohima
+
+   D. Mumbai
+
+35. What is the capital of Sikkim?
+   A. Amaravati
+
+   B. Patna
+
+   C. Chennai
+
+   D. Gangtok
+
+36. What is the capital of Rajasthan?
+   A. Chandigarh
+
+   B. Bengaluru
+
+   C. Hyderabad
+
+   D. Jaipur
+

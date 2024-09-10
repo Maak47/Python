@@ -1,0 +1,332 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form27)
+
+1. What is the capital of Tamil Nadu?
+   A. Itanagar
+
+   B. Shimla
+
+   C. Chennai
+
+   D. Agartala
+
+2. What is the capital of Odisha?
+   A. Shillong
+
+   B. Agartala
+
+   C. Bhubaneswar
+
+   D. Chennai
+
+3. What is the capital of Dadra and Nagar Haveli and Daman and Diu?
+   A. Daman
+
+   B. Amaravati
+
+   C. Kohima
+
+   D. Chandigarh
+
+4. What is the capital of Tripura?
+   A. Itanagar
+
+   B. Chennai
+
+   C. Agartala
+
+   D. Puducherry
+
+5. What is the capital of Lakshadweep?
+   A. Kolkata
+
+   B. Amaravati
+
+   C. Chandigarh
+
+   D. Kavaratti
+
+6. What is the capital of Bihar?
+   A. Gangtok
+
+   B. Patna
+
+   C. Kavaratti
+
+   D. Imphal
+
+7. What is the capital of Puducherry?
+   A. Chennai
+
+   B. Leh
+
+   C. Puducherry
+
+   D. Raipur
+
+8. What is the capital of Nagaland?
+   A. Srinagar
+
+   B. Puducherry
+
+   C. Kohima
+
+   D. Hyderabad
+
+9. What is the capital of Andhra Pradesh?
+   A. Gandhinagar
+
+   B. Kolkata
+
+   C. Thiruvananthapuram
+
+   D. Amaravati
+
+10. What is the capital of Sikkim?
+   A. Kolkata
+
+   B. Gangtok
+
+   C. Gandhinagar
+
+   D. Chandigarh
+
+11. What is the capital of Kerala?
+   A. Itanagar
+
+   B. Panaji
+
+   C. Thiruvananthapuram
+
+   D. Puducherry
+
+12. What is the capital of Gujarat?
+   A. Gandhinagar
+
+   B. Mumbai
+
+   C. Patna
+
+   D. Raipur
+
+13. What is the capital of Assam?
+   A. Dispur
+
+   B. Daman
+
+   C. Mumbai
+
+   D. Port Blair
+
+14. What is the capital of Arunachal Pradesh?
+   A. Lucknow
+
+   B. Bengaluru
+
+   C. Itanagar
+
+   D. Imphal
+
+15. What is the capital of Karnataka?
+   A. Bengaluru
+
+   B. Gangtok
+
+   C. Raipur
+
+   D. Chandigarh
+
+16. What is the capital of West Bengal?
+   A. Imphal
+
+   B. Chandigarh
+
+   C. Daman
+
+   D. Kolkata
+
+17. What is the capital of Jammu and Kashmir?
+   A. Chennai
+
+   B. Bengaluru
+
+   C. Lucknow
+
+   D. Srinagar
+
+18. What is the capital of Punjab?
+   A. Gangtok
+
+   B. Kolkata
+
+   C. New Delhi
+
+   D. Chandigarh
+
+19. What is the capital of Uttar Pradesh?
+   A. Daman
+
+   B. Kohima
+
+   C. Lucknow
+
+   D. Port Blair
+
+20. What is the capital of Maharashtra?
+   A. Raipur
+
+   B. Dispur
+
+   C. Mumbai
+
+   D. Bengaluru
+
+21. What is the capital of Haryana?
+   A. Chandigarh
+
+   B. Dispur
+
+   C. Srinagar
+
+   D. Bhopal
+
+22. What is the capital of Jharkhand?
+   A. Ranchi
+
+   B. Port Blair
+
+   C. Chandigarh
+
+   D. Amaravati
+
+23. What is the capital of Telangana?
+   A. Dispur
+
+   B. Hyderabad
+
+   C. Chennai
+
+   D. Srinagar
+
+24. What is the capital of Goa?
+   A. Dispur
+
+   B. New Delhi
+
+   C. Panaji
+
+   D. Shimla
+
+25. What is the capital of Andaman and Nicobar Islands?
+   A. Bengaluru
+
+   B. Port Blair
+
+   C. Bhubaneswar
+
+   D. Puducherry
+
+26. What is the capital of Chandigarh?
+   A. Gandhinagar
+
+   B. Amaravati
+
+   C. Chandigarh
+
+   D. Shillong
+
+27. What is the capital of Mizoram?
+   A. Hyderabad
+
+   B. Daman
+
+   C. Chandigarh
+
+   D. Aizawl
+
+28. What is the capital of Himachal Pradesh?
+   A. Bhopal
+
+   B. Shimla
+
+   C. Lucknow
+
+   D. Dispur
+
+29. What is the capital of Rajasthan?
+   A. Srinagar
+
+   B. Aizawl
+
+   C. Chandigarh
+
+   D. Jaipur
+
+30. What is the capital of Manipur?
+   A. Imphal
+
+   B. Dispur
+
+   C. Hyderabad
+
+   D. Kohima
+
+31. What is the capital of Ladakh?
+   A. Leh
+
+   B. Chandigarh
+
+   C. Jaipur
+
+   D. Mumbai
+
+32. What is the capital of Chhattisgarh?
+   A. Kavaratti
+
+   B. New Delhi
+
+   C. Agartala
+
+   D. Raipur
+
+33. What is the capital of Meghalaya?
+   A. Panaji
+
+   B. Gandhinagar
+
+   C. Shillong
+
+   D. Kohima
+
+34. What is the capital of Delhi?
+   A. Itanagar
+
+   B. New Delhi
+
+   C. Kavaratti
+
+   D. Shillong
+
+35. What is the capital of Madhya Pradesh?
+   A. Shillong
+
+   B. Bhopal
+
+   C. Port Blair
+
+   D. Shimla
+
+36. What is the capital of Uttarakhand?
+   A. Raipur
+
+   B. Dispur
+
+   C. Dehradun
+
+   D. Aizawl
+

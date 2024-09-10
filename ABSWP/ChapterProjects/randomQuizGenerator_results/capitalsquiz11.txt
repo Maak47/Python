@@ -1,0 +1,332 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form11)
+
+1. What is the capital of Assam?
+   A. Kohima
+
+   B. Dispur
+
+   C. Kolkata
+
+   D. Itanagar
+
+2. What is the capital of Uttarakhand?
+   A. Shillong
+
+   B. Dehradun
+
+   C. Gandhinagar
+
+   D. Mumbai
+
+3. What is the capital of Kerala?
+   A. Bhubaneswar
+
+   B. Chandigarh
+
+   C. Chennai
+
+   D. Thiruvananthapuram
+
+4. What is the capital of Gujarat?
+   A. Itanagar
+
+   B. Gandhinagar
+
+   C. New Delhi
+
+   D. Shillong
+
+5. What is the capital of Tamil Nadu?
+   A. Jaipur
+
+   B. Amaravati
+
+   C. Hyderabad
+
+   D. Chennai
+
+6. What is the capital of Maharashtra?
+   A. Mumbai
+
+   B. Kohima
+
+   C. Chandigarh
+
+   D. Raipur
+
+7. What is the capital of Haryana?
+   A. Leh
+
+   B. Agartala
+
+   C. Chandigarh
+
+   D. Hyderabad
+
+8. What is the capital of Uttar Pradesh?
+   A. Daman
+
+   B. Hyderabad
+
+   C. Lucknow
+
+   D. Amaravati
+
+9. What is the capital of Ladakh?
+   A. Bengaluru
+
+   B. Agartala
+
+   C. Leh
+
+   D. Kolkata
+
+10. What is the capital of Rajasthan?
+   A. Raipur
+
+   B. Chandigarh
+
+   C. Jaipur
+
+   D. Itanagar
+
+11. What is the capital of Madhya Pradesh?
+   A. Chandigarh
+
+   B. New Delhi
+
+   C. Bhopal
+
+   D. Aizawl
+
+12. What is the capital of Andhra Pradesh?
+   A. Patna
+
+   B. Chandigarh
+
+   C. Amaravati
+
+   D. Aizawl
+
+13. What is the capital of Telangana?
+   A. Gandhinagar
+
+   B. Bhubaneswar
+
+   C. Amaravati
+
+   D. Hyderabad
+
+14. What is the capital of Dadra and Nagar Haveli and Daman and Diu?
+   A. Srinagar
+
+   B. Kolkata
+
+   C. Kavaratti
+
+   D. Daman
+
+15. What is the capital of Bihar?
+   A. Gandhinagar
+
+   B. Agartala
+
+   C. Patna
+
+   D. Shimla
+
+16. What is the capital of Jammu and Kashmir?
+   A. Hyderabad
+
+   B. Srinagar
+
+   C. Mumbai
+
+   D. Kavaratti
+
+17. What is the capital of Punjab?
+   A. Chandigarh
+
+   B. Bengaluru
+
+   C. Daman
+
+   D. Bhubaneswar
+
+18. What is the capital of Meghalaya?
+   A. Patna
+
+   B. Shillong
+
+   C. Dispur
+
+   D. Dehradun
+
+19. What is the capital of Delhi?
+   A. Imphal
+
+   B. Kolkata
+
+   C. Shillong
+
+   D. New Delhi
+
+20. What is the capital of Nagaland?
+   A. Kohima
+
+   B. Gandhinagar
+
+   C. Bhubaneswar
+
+   D. Shillong
+
+21. What is the capital of Karnataka?
+   A. Chandigarh
+
+   B. Imphal
+
+   C. Bengaluru
+
+   D. Jaipur
+
+22. What is the capital of Odisha?
+   A. Port Blair
+
+   B. Bhubaneswar
+
+   C. Dispur
+
+   D. Chennai
+
+23. What is the capital of Tripura?
+   A. Agartala
+
+   B. Imphal
+
+   C. Kolkata
+
+   D. Dehradun
+
+24. What is the capital of Manipur?
+   A. Dispur
+
+   B. Imphal
+
+   C. Patna
+
+   D. Srinagar
+
+25. What is the capital of Arunachal Pradesh?
+   A. Panaji
+
+   B. Itanagar
+
+   C. Bhubaneswar
+
+   D. Dehradun
+
+26. What is the capital of Chandigarh?
+   A. Gangtok
+
+   B. Shillong
+
+   C. Chandigarh
+
+   D. Dehradun
+
+27. What is the capital of Sikkim?
+   A. Patna
+
+   B. Imphal
+
+   C. Bhubaneswar
+
+   D. Gangtok
+
+28. What is the capital of Chhattisgarh?
+   A. Raipur
+
+   B. Mumbai
+
+   C. Bhopal
+
+   D. Lucknow
+
+29. What is the capital of Lakshadweep?
+   A. Shillong
+
+   B. Chandigarh
+
+   C. Agartala
+
+   D. Kavaratti
+
+30. What is the capital of West Bengal?
+   A. Bhubaneswar
+
+   B. Jaipur
+
+   C. Kolkata
+
+   D. Lucknow
+
+31. What is the capital of Andaman and Nicobar Islands?
+   A. Kohima
+
+   B. Imphal
+
+   C. Port Blair
+
+   D. Srinagar
+
+32. What is the capital of Puducherry?
+   A. Aizawl
+
+   B. Lucknow
+
+   C. Amaravati
+
+   D. Puducherry
+
+33. What is the capital of Mizoram?
+   A. Aizawl
+
+   B. Agartala
+
+   C. Panaji
+
+   D. Dehradun
+
+34. What is the capital of Jharkhand?
+   A. Dispur
+
+   B. Bengaluru
+
+   C. Ranchi
+
+   D. Hyderabad
+
+35. What is the capital of Goa?
+   A. Amaravati
+
+   B. Jaipur
+
+   C. Panaji
+
+   D. Patna
+
+36. What is the capital of Himachal Pradesh?
+   A. Bhopal
+
+   B. Shimla
+
+   C. Aizawl
+
+   D. Bhubaneswar
+

@@ -1,0 +1,332 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form14)
+
+1. What is the capital of Delhi?
+   A. Chandigarh
+
+   B. New Delhi
+
+   C. Jaipur
+
+   D. Kavaratti
+
+2. What is the capital of Odisha?
+   A. Bhubaneswar
+
+   B. Shimla
+
+   C. Kohima
+
+   D. Aizawl
+
+3. What is the capital of Punjab?
+   A. Thiruvananthapuram
+
+   B. Chandigarh
+
+   C. Shillong
+
+   D. Raipur
+
+4. What is the capital of Chandigarh?
+   A. Dispur
+
+   B. Chandigarh
+
+   C. Chandigarh
+
+   D. Bengaluru
+
+5. What is the capital of Manipur?
+   A. Imphal
+
+   B. Shimla
+
+   C. Kavaratti
+
+   D. Dehradun
+
+6. What is the capital of Mizoram?
+   A. Gandhinagar
+
+   B. Dehradun
+
+   C. Srinagar
+
+   D. Aizawl
+
+7. What is the capital of Chhattisgarh?
+   A. Raipur
+
+   B. Bengaluru
+
+   C. Kolkata
+
+   D. Gandhinagar
+
+8. What is the capital of Jharkhand?
+   A. Imphal
+
+   B. Puducherry
+
+   C. Chandigarh
+
+   D. Ranchi
+
+9. What is the capital of Nagaland?
+   A. Shimla
+
+   B. Agartala
+
+   C. Srinagar
+
+   D. Kohima
+
+10. What is the capital of Jammu and Kashmir?
+   A. Srinagar
+
+   B. Dispur
+
+   C. Kolkata
+
+   D. Bengaluru
+
+11. What is the capital of Goa?
+   A. Panaji
+
+   B. Agartala
+
+   C. Bengaluru
+
+   D. Dehradun
+
+12. What is the capital of Ladakh?
+   A. Puducherry
+
+   B. Bengaluru
+
+   C. Leh
+
+   D. Bhopal
+
+13. What is the capital of Sikkim?
+   A. Chennai
+
+   B. Gangtok
+
+   C. Ranchi
+
+   D. Daman
+
+14. What is the capital of Himachal Pradesh?
+   A. Imphal
+
+   B. Shimla
+
+   C. Kolkata
+
+   D. Leh
+
+15. What is the capital of Madhya Pradesh?
+   A. Chennai
+
+   B. Chandigarh
+
+   C. Bhopal
+
+   D. Kolkata
+
+16. What is the capital of Uttarakhand?
+   A. Chandigarh
+
+   B. Lucknow
+
+   C. Dehradun
+
+   D. Dispur
+
+17. What is the capital of Telangana?
+   A. Chandigarh
+
+   B. Hyderabad
+
+   C. Leh
+
+   D. Mumbai
+
+18. What is the capital of Maharashtra?
+   A. Srinagar
+
+   B. Mumbai
+
+   C. Raipur
+
+   D. Kavaratti
+
+19. What is the capital of Tripura?
+   A. Srinagar
+
+   B. Panaji
+
+   C. Kavaratti
+
+   D. Agartala
+
+20. What is the capital of Andhra Pradesh?
+   A. Chandigarh
+
+   B. Thiruvananthapuram
+
+   C. Bhubaneswar
+
+   D. Amaravati
+
+21. What is the capital of West Bengal?
+   A. Kolkata
+
+   B. Shimla
+
+   C. Bhopal
+
+   D. Gandhinagar
+
+22. What is the capital of Gujarat?
+   A. Aizawl
+
+   B. Kavaratti
+
+   C. Gandhinagar
+
+   D. Dehradun
+
+23. What is the capital of Andaman and Nicobar Islands?
+   A. Lucknow
+
+   B. Port Blair
+
+   C. Chandigarh
+
+   D. Shimla
+
+24. What is the capital of Bihar?
+   A. Kohima
+
+   B. Raipur
+
+   C. Patna
+
+   D. Chandigarh
+
+25. What is the capital of Dadra and Nagar Haveli and Daman and Diu?
+   A. Chandigarh
+
+   B. Imphal
+
+   C. Patna
+
+   D. Daman
+
+26. What is the capital of Lakshadweep?
+   A. Leh
+
+   B. Amaravati
+
+   C. Kolkata
+
+   D. Kavaratti
+
+27. What is the capital of Meghalaya?
+   A. Shimla
+
+   B. Aizawl
+
+   C. Shillong
+
+   D. Leh
+
+28. What is the capital of Rajasthan?
+   A. Port Blair
+
+   B. Gandhinagar
+
+   C. Kohima
+
+   D. Jaipur
+
+29. What is the capital of Arunachal Pradesh?
+   A. Kohima
+
+   B. Daman
+
+   C. Itanagar
+
+   D. Port Blair
+
+30. What is the capital of Assam?
+   A. Jaipur
+
+   B. Bhopal
+
+   C. Aizawl
+
+   D. Dispur
+
+31. What is the capital of Tamil Nadu?
+   A. Chennai
+
+   B. Shimla
+
+   C. Chandigarh
+
+   D. Chandigarh
+
+32. What is the capital of Haryana?
+   A. Patna
+
+   B. Thiruvananthapuram
+
+   C. Agartala
+
+   D. Chandigarh
+
+33. What is the capital of Kerala?
+   A. Imphal
+
+   B. Chennai
+
+   C. Thiruvananthapuram
+
+   D. Port Blair
+
+34. What is the capital of Karnataka?
+   A. Shillong
+
+   B. Ranchi
+
+   C. New Delhi
+
+   D. Bengaluru
+
+35. What is the capital of Uttar Pradesh?
+   A. Shimla
+
+   B. Lucknow
+
+   C. Puducherry
+
+   D. Mumbai
+
+36. What is the capital of Puducherry?
+   A. Gandhinagar
+
+   B. Kolkata
+
+   C. Thiruvananthapuram
+
+   D. Puducherry
+

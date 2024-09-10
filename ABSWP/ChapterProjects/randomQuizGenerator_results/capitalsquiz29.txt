@@ -1,0 +1,332 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form29)
+
+1. What is the capital of Arunachal Pradesh?
+   A. Itanagar
+
+   B. Daman
+
+   C. Leh
+
+   D. Chandigarh
+
+2. What is the capital of Chandigarh?
+   A. Kohima
+
+   B. Chandigarh
+
+   C. Puducherry
+
+   D. Kolkata
+
+3. What is the capital of Madhya Pradesh?
+   A. Gangtok
+
+   B. Bhopal
+
+   C. Hyderabad
+
+   D. Aizawl
+
+4. What is the capital of West Bengal?
+   A. Shillong
+
+   B. Kolkata
+
+   C. Ranchi
+
+   D. Srinagar
+
+5. What is the capital of Uttarakhand?
+   A. Bhopal
+
+   B. Chandigarh
+
+   C. Aizawl
+
+   D. Dehradun
+
+6. What is the capital of Tripura?
+   A. Gandhinagar
+
+   B. Raipur
+
+   C. Thiruvananthapuram
+
+   D. Agartala
+
+7. What is the capital of Goa?
+   A. Panaji
+
+   B. Dehradun
+
+   C. Srinagar
+
+   D. Mumbai
+
+8. What is the capital of Mizoram?
+   A. Hyderabad
+
+   B. Chandigarh
+
+   C. Srinagar
+
+   D. Aizawl
+
+9. What is the capital of Karnataka?
+   A. Dehradun
+
+   B. Bengaluru
+
+   C. Mumbai
+
+   D. Raipur
+
+10. What is the capital of Andaman and Nicobar Islands?
+   A. Srinagar
+
+   B. Bengaluru
+
+   C. Panaji
+
+   D. Port Blair
+
+11. What is the capital of Odisha?
+   A. Bhubaneswar
+
+   B. Raipur
+
+   C. Ranchi
+
+   D. Chandigarh
+
+12. What is the capital of Punjab?
+   A. Panaji
+
+   B. Chandigarh
+
+   C. Chennai
+
+   D. Agartala
+
+13. What is the capital of Ladakh?
+   A. Leh
+
+   B. Chennai
+
+   C. Chandigarh
+
+   D. Shimla
+
+14. What is the capital of Andhra Pradesh?
+   A. Puducherry
+
+   B. Agartala
+
+   C. Amaravati
+
+   D. Chandigarh
+
+15. What is the capital of Lakshadweep?
+   A. Daman
+
+   B. Chandigarh
+
+   C. Lucknow
+
+   D. Kavaratti
+
+16. What is the capital of Maharashtra?
+   A. Thiruvananthapuram
+
+   B. Mumbai
+
+   C. Port Blair
+
+   D. Agartala
+
+17. What is the capital of Delhi?
+   A. New Delhi
+
+   B. Hyderabad
+
+   C. Imphal
+
+   D. Ranchi
+
+18. What is the capital of Meghalaya?
+   A. Agartala
+
+   B. Shillong
+
+   C. Chandigarh
+
+   D. Chandigarh
+
+19. What is the capital of Telangana?
+   A. Agartala
+
+   B. Chennai
+
+   C. Daman
+
+   D. Hyderabad
+
+20. What is the capital of Himachal Pradesh?
+   A. Shimla
+
+   B. Kavaratti
+
+   C. Srinagar
+
+   D. Lucknow
+
+21. What is the capital of Tamil Nadu?
+   A. New Delhi
+
+   B. Panaji
+
+   C. Imphal
+
+   D. Chennai
+
+22. What is the capital of Kerala?
+   A. Thiruvananthapuram
+
+   B. Agartala
+
+   C. Kohima
+
+   D. Gangtok
+
+23. What is the capital of Chhattisgarh?
+   A. Bengaluru
+
+   B. Amaravati
+
+   C. Puducherry
+
+   D. Raipur
+
+24. What is the capital of Bihar?
+   A. Patna
+
+   B. Bhopal
+
+   C. Ranchi
+
+   D. Chandigarh
+
+25. What is the capital of Rajasthan?
+   A. Puducherry
+
+   B. Jaipur
+
+   C. Itanagar
+
+   D. Mumbai
+
+26. What is the capital of Sikkim?
+   A. Imphal
+
+   B. Aizawl
+
+   C. Srinagar
+
+   D. Gangtok
+
+27. What is the capital of Jammu and Kashmir?
+   A. Bhopal
+
+   B. Srinagar
+
+   C. Aizawl
+
+   D. Chennai
+
+28. What is the capital of Haryana?
+   A. Kavaratti
+
+   B. Srinagar
+
+   C. Shimla
+
+   D. Chandigarh
+
+29. What is the capital of Assam?
+   A. Bengaluru
+
+   B. Leh
+
+   C. Dispur
+
+   D. Mumbai
+
+30. What is the capital of Manipur?
+   A. Imphal
+
+   B. Bhubaneswar
+
+   C. Shillong
+
+   D. Kavaratti
+
+31. What is the capital of Nagaland?
+   A. Chandigarh
+
+   B. Kohima
+
+   C. Imphal
+
+   D. Gandhinagar
+
+32. What is the capital of Puducherry?
+   A. Kolkata
+
+   B. Bhubaneswar
+
+   C. Puducherry
+
+   D. Raipur
+
+33. What is the capital of Jharkhand?
+   A. Ranchi
+
+   B. Agartala
+
+   C. Leh
+
+   D. Jaipur
+
+34. What is the capital of Uttar Pradesh?
+   A. Lucknow
+
+   B. Kohima
+
+   C. Gangtok
+
+   D. Mumbai
+
+35. What is the capital of Gujarat?
+   A. Gandhinagar
+
+   B. Panaji
+
+   C. Mumbai
+
+   D. Bengaluru
+
+36. What is the capital of Dadra and Nagar Haveli and Daman and Diu?
+   A. Shimla
+
+   B. Agartala
+
+   C. Mumbai
+
+   D. Daman
+

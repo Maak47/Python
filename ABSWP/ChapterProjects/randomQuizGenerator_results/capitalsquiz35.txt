@@ -1,0 +1,332 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form35)
+
+1. What is the capital of Tripura?
+   A. Chandigarh
+
+   B. Bhubaneswar
+
+   C. Agartala
+
+   D. Gandhinagar
+
+2. What is the capital of Meghalaya?
+   A. Shillong
+
+   B. Panaji
+
+   C. Dehradun
+
+   D. Kavaratti
+
+3. What is the capital of Tamil Nadu?
+   A. Hyderabad
+
+   B. Port Blair
+
+   C. Chandigarh
+
+   D. Chennai
+
+4. What is the capital of Karnataka?
+   A. Shillong
+
+   B. Dehradun
+
+   C. Leh
+
+   D. Bengaluru
+
+5. What is the capital of Jharkhand?
+   A. Amaravati
+
+   B. Ranchi
+
+   C. Jaipur
+
+   D. Bhopal
+
+6. What is the capital of Sikkim?
+   A. Chennai
+
+   B. Lucknow
+
+   C. Gangtok
+
+   D. Amaravati
+
+7. What is the capital of Lakshadweep?
+   A. Shillong
+
+   B. Kavaratti
+
+   C. Dispur
+
+   D. New Delhi
+
+8. What is the capital of Himachal Pradesh?
+   A. Shimla
+
+   B. Ranchi
+
+   C. Chandigarh
+
+   D. Thiruvananthapuram
+
+9. What is the capital of Andhra Pradesh?
+   A. Amaravati
+
+   B. Patna
+
+   C. Aizawl
+
+   D. Kohima
+
+10. What is the capital of Uttar Pradesh?
+   A. Lucknow
+
+   B. Chandigarh
+
+   C. Port Blair
+
+   D. New Delhi
+
+11. What is the capital of Rajasthan?
+   A. Imphal
+
+   B. Chandigarh
+
+   C. Jaipur
+
+   D. Raipur
+
+12. What is the capital of Jammu and Kashmir?
+   A. Lucknow
+
+   B. Srinagar
+
+   C. Amaravati
+
+   D. Bengaluru
+
+13. What is the capital of Andaman and Nicobar Islands?
+   A. Aizawl
+
+   B. Dispur
+
+   C. Port Blair
+
+   D. Dehradun
+
+14. What is the capital of Chhattisgarh?
+   A. Dispur
+
+   B. Raipur
+
+   C. Kolkata
+
+   D. Gandhinagar
+
+15. What is the capital of Ladakh?
+   A. Thiruvananthapuram
+
+   B. Leh
+
+   C. Chennai
+
+   D. Jaipur
+
+16. What is the capital of Delhi?
+   A. Panaji
+
+   B. Shimla
+
+   C. Ranchi
+
+   D. New Delhi
+
+17. What is the capital of Assam?
+   A. Chandigarh
+
+   B. Dispur
+
+   C. New Delhi
+
+   D. Mumbai
+
+18. What is the capital of Gujarat?
+   A. Bhopal
+
+   B. Imphal
+
+   C. Raipur
+
+   D. Gandhinagar
+
+19. What is the capital of Chandigarh?
+   A. Bhubaneswar
+
+   B. Amaravati
+
+   C. Aizawl
+
+   D. Chandigarh
+
+20. What is the capital of West Bengal?
+   A. Bhubaneswar
+
+   B. Kolkata
+
+   C. New Delhi
+
+   D. Mumbai
+
+21. What is the capital of Bihar?
+   A. Puducherry
+
+   B. Gangtok
+
+   C. Imphal
+
+   D. Patna
+
+22. What is the capital of Puducherry?
+   A. Kolkata
+
+   B. Gandhinagar
+
+   C. Puducherry
+
+   D. Chennai
+
+23. What is the capital of Manipur?
+   A. Shimla
+
+   B. Itanagar
+
+   C. Imphal
+
+   D. Ranchi
+
+24. What is the capital of Arunachal Pradesh?
+   A. Chandigarh
+
+   B. Srinagar
+
+   C. Itanagar
+
+   D. Gandhinagar
+
+25. What is the capital of Dadra and Nagar Haveli and Daman and Diu?
+   A. Puducherry
+
+   B. Thiruvananthapuram
+
+   C. Mumbai
+
+   D. Daman
+
+26. What is the capital of Mizoram?
+   A. Agartala
+
+   B. Aizawl
+
+   C. Jaipur
+
+   D. Bengaluru
+
+27. What is the capital of Haryana?
+   A. Chandigarh
+
+   B. Dehradun
+
+   C. Lucknow
+
+   D. New Delhi
+
+28. What is the capital of Maharashtra?
+   A. Mumbai
+
+   B. Daman
+
+   C. Bhopal
+
+   D. Shimla
+
+29. What is the capital of Uttarakhand?
+   A. Dehradun
+
+   B. Kolkata
+
+   C. Raipur
+
+   D. Imphal
+
+30. What is the capital of Telangana?
+   A. Hyderabad
+
+   B. Bengaluru
+
+   C. Lucknow
+
+   D. Leh
+
+31. What is the capital of Odisha?
+   A. Amaravati
+
+   B. Imphal
+
+   C. Agartala
+
+   D. Bhubaneswar
+
+32. What is the capital of Nagaland?
+   A. Agartala
+
+   B. Bhopal
+
+   C. Kohima
+
+   D. Leh
+
+33. What is the capital of Kerala?
+   A. Gandhinagar
+
+   B. Thiruvananthapuram
+
+   C. Ranchi
+
+   D. Bengaluru
+
+34. What is the capital of Madhya Pradesh?
+   A. Chandigarh
+
+   B. Bhopal
+
+   C. Bhubaneswar
+
+   D. Shimla
+
+35. What is the capital of Goa?
+   A. Puducherry
+
+   B. Panaji
+
+   C. Srinagar
+
+   D. Shillong
+
+36. What is the capital of Punjab?
+   A. Gandhinagar
+
+   B. Srinagar
+
+   C. Chandigarh
+
+   D. Kavaratti
+

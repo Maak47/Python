@@ -1,0 +1,332 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form1)
+
+1. What is the capital of Chandigarh?
+   A. Chandigarh
+
+   B. Kolkata
+
+   C. Bhubaneswar
+
+   D. Chandigarh
+
+2. What is the capital of Gujarat?
+   A. Ranchi
+
+   B. Gandhinagar
+
+   C. Chennai
+
+   D. Dispur
+
+3. What is the capital of Lakshadweep?
+   A. Mumbai
+
+   B. Kavaratti
+
+   C. Kohima
+
+   D. Puducherry
+
+4. What is the capital of Assam?
+   A. Dispur
+
+   B. Agartala
+
+   C. Ranchi
+
+   D. Bengaluru
+
+5. What is the capital of Mizoram?
+   A. Panaji
+
+   B. Kolkata
+
+   C. Aizawl
+
+   D. Ranchi
+
+6. What is the capital of Arunachal Pradesh?
+   A. Puducherry
+
+   B. Itanagar
+
+   C. Dehradun
+
+   D. Aizawl
+
+7. What is the capital of Andhra Pradesh?
+   A. Raipur
+
+   B. Dehradun
+
+   C. Agartala
+
+   D. Amaravati
+
+8. What is the capital of Uttarakhand?
+   A. Mumbai
+
+   B. Dehradun
+
+   C. Port Blair
+
+   D. Kavaratti
+
+9. What is the capital of Chhattisgarh?
+   A. Raipur
+
+   B. Aizawl
+
+   C. Shillong
+
+   D. Ranchi
+
+10. What is the capital of Manipur?
+   A. Chandigarh
+
+   B. Shimla
+
+   C. Imphal
+
+   D. Daman
+
+11. What is the capital of Jammu and Kashmir?
+   A. Amaravati
+
+   B. Bhopal
+
+   C. Puducherry
+
+   D. Srinagar
+
+12. What is the capital of Telangana?
+   A. Shimla
+
+   B. Leh
+
+   C. Raipur
+
+   D. Hyderabad
+
+13. What is the capital of Sikkim?
+   A. Dehradun
+
+   B. Gangtok
+
+   C. New Delhi
+
+   D. Kolkata
+
+14. What is the capital of Uttar Pradesh?
+   A. Puducherry
+
+   B. Gandhinagar
+
+   C. Lucknow
+
+   D. Kolkata
+
+15. What is the capital of Kerala?
+   A. Thiruvananthapuram
+
+   B. Bhopal
+
+   C. Shillong
+
+   D. Leh
+
+16. What is the capital of Tamil Nadu?
+   A. Ranchi
+
+   B. Kolkata
+
+   C. Bengaluru
+
+   D. Chennai
+
+17. What is the capital of Ladakh?
+   A. Leh
+
+   B. Amaravati
+
+   C. Chennai
+
+   D. Hyderabad
+
+18. What is the capital of Rajasthan?
+   A. Lucknow
+
+   B. Gandhinagar
+
+   C. Kolkata
+
+   D. Jaipur
+
+19. What is the capital of Meghalaya?
+   A. Bhubaneswar
+
+   B. Srinagar
+
+   C. Shillong
+
+   D. Raipur
+
+20. What is the capital of Puducherry?
+   A. Dehradun
+
+   B. Chandigarh
+
+   C. Puducherry
+
+   D. Chandigarh
+
+21. What is the capital of Dadra and Nagar Haveli and Daman and Diu?
+   A. Puducherry
+
+   B. Daman
+
+   C. Hyderabad
+
+   D. Lucknow
+
+22. What is the capital of Punjab?
+   A. Srinagar
+
+   B. Hyderabad
+
+   C. Bhopal
+
+   D. Chandigarh
+
+23. What is the capital of West Bengal?
+   A. Kohima
+
+   B. Kolkata
+
+   C. Imphal
+
+   D. Gangtok
+
+24. What is the capital of Madhya Pradesh?
+   A. Amaravati
+
+   B. Bhopal
+
+   C. Hyderabad
+
+   D. Panaji
+
+25. What is the capital of Himachal Pradesh?
+   A. Bengaluru
+
+   B. Kohima
+
+   C. Kavaratti
+
+   D. Shimla
+
+26. What is the capital of Andaman and Nicobar Islands?
+   A. Shimla
+
+   B. Aizawl
+
+   C. Hyderabad
+
+   D. Port Blair
+
+27. What is the capital of Delhi?
+   A. New Delhi
+
+   B. Kohima
+
+   C. Gangtok
+
+   D. Imphal
+
+28. What is the capital of Karnataka?
+   A. Shimla
+
+   B. Srinagar
+
+   C. Bengaluru
+
+   D. Raipur
+
+29. What is the capital of Haryana?
+   A. Raipur
+
+   B. Bengaluru
+
+   C. Mumbai
+
+   D. Chandigarh
+
+30. What is the capital of Tripura?
+   A. Dispur
+
+   B. Jaipur
+
+   C. Amaravati
+
+   D. Agartala
+
+31. What is the capital of Bihar?
+   A. Thiruvananthapuram
+
+   B. Patna
+
+   C. Amaravati
+
+   D. Itanagar
+
+32. What is the capital of Maharashtra?
+   A. Mumbai
+
+   B. Shillong
+
+   C. Jaipur
+
+   D. Port Blair
+
+33. What is the capital of Goa?
+   A. Port Blair
+
+   B. Shimla
+
+   C. Kavaratti
+
+   D. Panaji
+
+34. What is the capital of Odisha?
+   A. Bhubaneswar
+
+   B. Kolkata
+
+   C. Gangtok
+
+   D. Raipur
+
+35. What is the capital of Jharkhand?
+   A. Chandigarh
+
+   B. Aizawl
+
+   C. Ranchi
+
+   D. Gangtok
+
+36. What is the capital of Nagaland?
+   A. Kohima
+
+   B. Panaji
+
+   C. Gandhinagar
+
+   D. New Delhi
+

@@ -1,0 +1,332 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form25)
+
+1. What is the capital of Madhya Pradesh?
+   A. Bhopal
+
+   B. Raipur
+
+   C. Thiruvananthapuram
+
+   D. Hyderabad
+
+2. What is the capital of Jharkhand?
+   A. Shillong
+
+   B. Ranchi
+
+   C. Shimla
+
+   D. Chandigarh
+
+3. What is the capital of Rajasthan?
+   A. Gandhinagar
+
+   B. Jaipur
+
+   C. Puducherry
+
+   D. Kolkata
+
+4. What is the capital of Puducherry?
+   A. Srinagar
+
+   B. Mumbai
+
+   C. Puducherry
+
+   D. Lucknow
+
+5. What is the capital of Mizoram?
+   A. Patna
+
+   B. Kohima
+
+   C. Aizawl
+
+   D. Itanagar
+
+6. What is the capital of Karnataka?
+   A. Daman
+
+   B. Dehradun
+
+   C. Ranchi
+
+   D. Bengaluru
+
+7. What is the capital of Delhi?
+   A. New Delhi
+
+   B. Thiruvananthapuram
+
+   C. Agartala
+
+   D. Chandigarh
+
+8. What is the capital of Uttar Pradesh?
+   A. Thiruvananthapuram
+
+   B. Lucknow
+
+   C. Chandigarh
+
+   D. Agartala
+
+9. What is the capital of Lakshadweep?
+   A. Shimla
+
+   B. Daman
+
+   C. Amaravati
+
+   D. Kavaratti
+
+10. What is the capital of Telangana?
+   A. Hyderabad
+
+   B. Chandigarh
+
+   C. Thiruvananthapuram
+
+   D. Bengaluru
+
+11. What is the capital of Maharashtra?
+   A. Gangtok
+
+   B. Lucknow
+
+   C. Chandigarh
+
+   D. Mumbai
+
+12. What is the capital of West Bengal?
+   A. Kolkata
+
+   B. Bengaluru
+
+   C. Mumbai
+
+   D. Itanagar
+
+13. What is the capital of Punjab?
+   A. Patna
+
+   B. Dispur
+
+   C. Chandigarh
+
+   D. Srinagar
+
+14. What is the capital of Bihar?
+   A. Patna
+
+   B. Shillong
+
+   C. Hyderabad
+
+   D. Kohima
+
+15. What is the capital of Jammu and Kashmir?
+   A. Aizawl
+
+   B. Port Blair
+
+   C. Shillong
+
+   D. Srinagar
+
+16. What is the capital of Sikkim?
+   A. Leh
+
+   B. Bhopal
+
+   C. Imphal
+
+   D. Gangtok
+
+17. What is the capital of Tamil Nadu?
+   A. Imphal
+
+   B. Chennai
+
+   C. Daman
+
+   D. Leh
+
+18. What is the capital of Meghalaya?
+   A. Hyderabad
+
+   B. Dehradun
+
+   C. Shillong
+
+   D. Chandigarh
+
+19. What is the capital of Manipur?
+   A. Lucknow
+
+   B. Imphal
+
+   C. Chennai
+
+   D. Chandigarh
+
+20. What is the capital of Himachal Pradesh?
+   A. Ranchi
+
+   B. Shimla
+
+   C. Dispur
+
+   D. Aizawl
+
+21. What is the capital of Chandigarh?
+   A. Panaji
+
+   B. Chandigarh
+
+   C. Chandigarh
+
+   D. Shillong
+
+22. What is the capital of Odisha?
+   A. Dehradun
+
+   B. Bhubaneswar
+
+   C. Shillong
+
+   D. Bengaluru
+
+23. What is the capital of Uttarakhand?
+   A. Bhubaneswar
+
+   B. Raipur
+
+   C. Kolkata
+
+   D. Dehradun
+
+24. What is the capital of Dadra and Nagar Haveli and Daman and Diu?
+   A. Bengaluru
+
+   B. New Delhi
+
+   C. Daman
+
+   D. Ranchi
+
+25. What is the capital of Gujarat?
+   A. Panaji
+
+   B. Daman
+
+   C. Gandhinagar
+
+   D. Itanagar
+
+26. What is the capital of Assam?
+   A. Bhubaneswar
+
+   B. Dehradun
+
+   C. Dispur
+
+   D. Chandigarh
+
+27. What is the capital of Haryana?
+   A. Port Blair
+
+   B. Itanagar
+
+   C. Agartala
+
+   D. Chandigarh
+
+28. What is the capital of Andaman and Nicobar Islands?
+   A. Imphal
+
+   B. Port Blair
+
+   C. Leh
+
+   D. Srinagar
+
+29. What is the capital of Ladakh?
+   A. Dispur
+
+   B. Leh
+
+   C. Bhubaneswar
+
+   D. Gandhinagar
+
+30. What is the capital of Tripura?
+   A. Port Blair
+
+   B. New Delhi
+
+   C. Agartala
+
+   D. Srinagar
+
+31. What is the capital of Kerala?
+   A. Thiruvananthapuram
+
+   B. Srinagar
+
+   C. Dehradun
+
+   D. Bhopal
+
+32. What is the capital of Andhra Pradesh?
+   A. Lucknow
+
+   B. Amaravati
+
+   C. Thiruvananthapuram
+
+   D. Bhopal
+
+33. What is the capital of Nagaland?
+   A. Bhopal
+
+   B. Shimla
+
+   C. Kohima
+
+   D. Panaji
+
+34. What is the capital of Chhattisgarh?
+   A. Agartala
+
+   B. Shillong
+
+   C. Leh
+
+   D. Raipur
+
+35. What is the capital of Arunachal Pradesh?
+   A. Itanagar
+
+   B. Kolkata
+
+   C. Mumbai
+
+   D. Panaji
+
+36. What is the capital of Goa?
+   A. Amaravati
+
+   B. Chandigarh
+
+   C. Panaji
+
+   D. Port Blair
+

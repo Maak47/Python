@@ -1,0 +1,332 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form5)
+
+1. What is the capital of Haryana?
+   A. Chandigarh
+
+   B. Shimla
+
+   C. Kavaratti
+
+   D. Bengaluru
+
+2. What is the capital of Sikkim?
+   A. Jaipur
+
+   B. Gangtok
+
+   C. Chennai
+
+   D. Shimla
+
+3. What is the capital of Meghalaya?
+   A. Lucknow
+
+   B. Shillong
+
+   C. Dispur
+
+   D. Imphal
+
+4. What is the capital of Goa?
+   A. Shimla
+
+   B. Dehradun
+
+   C. Shillong
+
+   D. Panaji
+
+5. What is the capital of Manipur?
+   A. Bhubaneswar
+
+   B. Imphal
+
+   C. Leh
+
+   D. Chandigarh
+
+6. What is the capital of Tripura?
+   A. Kavaratti
+
+   B. Shimla
+
+   C. Agartala
+
+   D. Puducherry
+
+7. What is the capital of Andhra Pradesh?
+   A. Gandhinagar
+
+   B. Gangtok
+
+   C. Amaravati
+
+   D. Daman
+
+8. What is the capital of Dadra and Nagar Haveli and Daman and Diu?
+   A. Daman
+
+   B. New Delhi
+
+   C. Thiruvananthapuram
+
+   D. Bhopal
+
+9. What is the capital of Mizoram?
+   A. Raipur
+
+   B. Aizawl
+
+   C. Bhubaneswar
+
+   D. Amaravati
+
+10. What is the capital of Tamil Nadu?
+   A. Dehradun
+
+   B. Chennai
+
+   C. Gandhinagar
+
+   D. Bhopal
+
+11. What is the capital of Maharashtra?
+   A. Mumbai
+
+   B. Port Blair
+
+   C. Kohima
+
+   D. Chandigarh
+
+12. What is the capital of Chhattisgarh?
+   A. Raipur
+
+   B. Lucknow
+
+   C. Shillong
+
+   D. Aizawl
+
+13. What is the capital of Kerala?
+   A. Chandigarh
+
+   B. Bhopal
+
+   C. Thiruvananthapuram
+
+   D. Puducherry
+
+14. What is the capital of Punjab?
+   A. Kohima
+
+   B. Shimla
+
+   C. Gangtok
+
+   D. Chandigarh
+
+15. What is the capital of Odisha?
+   A. Jaipur
+
+   B. Dehradun
+
+   C. Chennai
+
+   D. Bhubaneswar
+
+16. What is the capital of Ladakh?
+   A. Leh
+
+   B. Gangtok
+
+   C. Port Blair
+
+   D. Bhopal
+
+17. What is the capital of Bihar?
+   A. Patna
+
+   B. Dispur
+
+   C. Bhopal
+
+   D. Thiruvananthapuram
+
+18. What is the capital of Uttar Pradesh?
+   A. Daman
+
+   B. Agartala
+
+   C. Lucknow
+
+   D. Mumbai
+
+19. What is the capital of Telangana?
+   A. Hyderabad
+
+   B. Jaipur
+
+   C. Imphal
+
+   D. Shimla
+
+20. What is the capital of Rajasthan?
+   A. Jaipur
+
+   B. Shimla
+
+   C. Chennai
+
+   D. Agartala
+
+21. What is the capital of Gujarat?
+   A. Gandhinagar
+
+   B. Aizawl
+
+   C. Kolkata
+
+   D. Mumbai
+
+22. What is the capital of Himachal Pradesh?
+   A. Shimla
+
+   B. Raipur
+
+   C. Chandigarh
+
+   D. Chandigarh
+
+23. What is the capital of Andaman and Nicobar Islands?
+   A. Port Blair
+
+   B. Kohima
+
+   C. Gangtok
+
+   D. Patna
+
+24. What is the capital of Assam?
+   A. Daman
+
+   B. Patna
+
+   C. Bhopal
+
+   D. Dispur
+
+25. What is the capital of Jharkhand?
+   A. New Delhi
+
+   B. Gangtok
+
+   C. Daman
+
+   D. Ranchi
+
+26. What is the capital of Arunachal Pradesh?
+   A. Itanagar
+
+   B. Amaravati
+
+   C. Srinagar
+
+   D. Kolkata
+
+27. What is the capital of Lakshadweep?
+   A. Port Blair
+
+   B. Bhubaneswar
+
+   C. Thiruvananthapuram
+
+   D. Kavaratti
+
+28. What is the capital of Uttarakhand?
+   A. Dehradun
+
+   B. Thiruvananthapuram
+
+   C. Kohima
+
+   D. Hyderabad
+
+29. What is the capital of Nagaland?
+   A. Kavaratti
+
+   B. Leh
+
+   C. Kohima
+
+   D. Itanagar
+
+30. What is the capital of Jammu and Kashmir?
+   A. Chandigarh
+
+   B. Leh
+
+   C. Jaipur
+
+   D. Srinagar
+
+31. What is the capital of Madhya Pradesh?
+   A. Panaji
+
+   B. Chandigarh
+
+   C. Bhopal
+
+   D. Port Blair
+
+32. What is the capital of West Bengal?
+   A. Gandhinagar
+
+   B. Kolkata
+
+   C. Shimla
+
+   D. Daman
+
+33. What is the capital of Karnataka?
+   A. Dispur
+
+   B. Jaipur
+
+   C. Amaravati
+
+   D. Bengaluru
+
+34. What is the capital of Chandigarh?
+   A. Hyderabad
+
+   B. Bhubaneswar
+
+   C. Chandigarh
+
+   D. Dehradun
+
+35. What is the capital of Delhi?
+   A. Dehradun
+
+   B. Chandigarh
+
+   C. Panaji
+
+   D. New Delhi
+
+36. What is the capital of Puducherry?
+   A. Kohima
+
+   B. Dispur
+
+   C. Chandigarh
+
+   D. Puducherry
+

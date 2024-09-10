@@ -1,0 +1,332 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form33)
+
+1. What is the capital of Maharashtra?
+   A. Mumbai
+
+   B. Dispur
+
+   C. Itanagar
+
+   D. Bengaluru
+
+2. What is the capital of West Bengal?
+   A. Kolkata
+
+   B. Jaipur
+
+   C. Aizawl
+
+   D. Leh
+
+3. What is the capital of Mizoram?
+   A. Itanagar
+
+   B. Gangtok
+
+   C. Bengaluru
+
+   D. Aizawl
+
+4. What is the capital of Chandigarh?
+   A. Dispur
+
+   B. Shillong
+
+   C. Chandigarh
+
+   D. Shimla
+
+5. What is the capital of Chhattisgarh?
+   A. Kavaratti
+
+   B. Raipur
+
+   C. Thiruvananthapuram
+
+   D. Kohima
+
+6. What is the capital of Gujarat?
+   A. Gandhinagar
+
+   B. Chennai
+
+   C. Kohima
+
+   D. Imphal
+
+7. What is the capital of Puducherry?
+   A. Bhopal
+
+   B. Puducherry
+
+   C. Panaji
+
+   D. Bhubaneswar
+
+8. What is the capital of Uttar Pradesh?
+   A. Hyderabad
+
+   B. Imphal
+
+   C. Raipur
+
+   D. Lucknow
+
+9. What is the capital of Punjab?
+   A. Chandigarh
+
+   B. Patna
+
+   C. Imphal
+
+   D. Thiruvananthapuram
+
+10. What is the capital of Kerala?
+   A. Thiruvananthapuram
+
+   B. Mumbai
+
+   C. Dehradun
+
+   D. Agartala
+
+11. What is the capital of Goa?
+   A. Thiruvananthapuram
+
+   B. Leh
+
+   C. Kolkata
+
+   D. Panaji
+
+12. What is the capital of Tamil Nadu?
+   A. Chennai
+
+   B. Itanagar
+
+   C. Bengaluru
+
+   D. Aizawl
+
+13. What is the capital of Jharkhand?
+   A. Ranchi
+
+   B. Imphal
+
+   C. Raipur
+
+   D. Mumbai
+
+14. What is the capital of Dadra and Nagar Haveli and Daman and Diu?
+   A. Chennai
+
+   B. Daman
+
+   C. Gangtok
+
+   D. Dehradun
+
+15. What is the capital of Tripura?
+   A. Bhopal
+
+   B. Agartala
+
+   C. Raipur
+
+   D. Panaji
+
+16. What is the capital of Andhra Pradesh?
+   A. Bhopal
+
+   B. Amaravati
+
+   C. Daman
+
+   D. Puducherry
+
+17. What is the capital of Telangana?
+   A. Chandigarh
+
+   B. Dispur
+
+   C. Hyderabad
+
+   D. Kolkata
+
+18. What is the capital of Madhya Pradesh?
+   A. Thiruvananthapuram
+
+   B. Shillong
+
+   C. Amaravati
+
+   D. Bhopal
+
+19. What is the capital of Meghalaya?
+   A. Gangtok
+
+   B. Chennai
+
+   C. Shillong
+
+   D. Ranchi
+
+20. What is the capital of Odisha?
+   A. Bengaluru
+
+   B. Dehradun
+
+   C. Lucknow
+
+   D. Bhubaneswar
+
+21. What is the capital of Rajasthan?
+   A. Dispur
+
+   B. Gandhinagar
+
+   C. Jaipur
+
+   D. Chandigarh
+
+22. What is the capital of Assam?
+   A. Imphal
+
+   B. Gangtok
+
+   C. Puducherry
+
+   D. Dispur
+
+23. What is the capital of Nagaland?
+   A. Bhopal
+
+   B. Hyderabad
+
+   C. Kohima
+
+   D. Patna
+
+24. What is the capital of Karnataka?
+   A. Bengaluru
+
+   B. Chandigarh
+
+   C. Amaravati
+
+   D. Patna
+
+25. What is the capital of Arunachal Pradesh?
+   A. Chandigarh
+
+   B. Itanagar
+
+   C. Kavaratti
+
+   D. Dehradun
+
+26. What is the capital of Bihar?
+   A. Gangtok
+
+   B. Kavaratti
+
+   C. Patna
+
+   D. Panaji
+
+27. What is the capital of Ladakh?
+   A. Leh
+
+   B. Dehradun
+
+   C. Port Blair
+
+   D. Kolkata
+
+28. What is the capital of Himachal Pradesh?
+   A. Dispur
+
+   B. Patna
+
+   C. Ranchi
+
+   D. Shimla
+
+29. What is the capital of Manipur?
+   A. Imphal
+
+   B. Kavaratti
+
+   C. Chennai
+
+   D. Raipur
+
+30. What is the capital of Uttarakhand?
+   A. New Delhi
+
+   B. Dispur
+
+   C. Shimla
+
+   D. Dehradun
+
+31. What is the capital of Andaman and Nicobar Islands?
+   A. Bhubaneswar
+
+   B. Port Blair
+
+   C. Leh
+
+   D. Itanagar
+
+32. What is the capital of Delhi?
+   A. New Delhi
+
+   B. Kohima
+
+   C. Puducherry
+
+   D. Kolkata
+
+33. What is the capital of Jammu and Kashmir?
+   A. Dispur
+
+   B. Srinagar
+
+   C. Thiruvananthapuram
+
+   D. Amaravati
+
+34. What is the capital of Sikkim?
+   A. Gangtok
+
+   B. Kolkata
+
+   C. Srinagar
+
+   D. Imphal
+
+35. What is the capital of Haryana?
+   A. Chandigarh
+
+   B. Kavaratti
+
+   C. Lucknow
+
+   D. Chandigarh
+
+36. What is the capital of Lakshadweep?
+   A. Lucknow
+
+   B. Bhopal
+
+   C. Panaji
+
+   D. Kavaratti
+

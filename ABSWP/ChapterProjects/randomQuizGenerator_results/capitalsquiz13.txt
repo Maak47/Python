@@ -1,0 +1,332 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form13)
+
+1. What is the capital of Meghalaya?
+   A. Bhubaneswar
+
+   B. Kolkata
+
+   C. Shillong
+
+   D. Port Blair
+
+2. What is the capital of Jammu and Kashmir?
+   A. Chandigarh
+
+   B. Dehradun
+
+   C. Kavaratti
+
+   D. Srinagar
+
+3. What is the capital of Arunachal Pradesh?
+   A. Port Blair
+
+   B. Dispur
+
+   C. Itanagar
+
+   D. Lucknow
+
+4. What is the capital of Madhya Pradesh?
+   A. Dehradun
+
+   B. Bhopal
+
+   C. Bhubaneswar
+
+   D. Chandigarh
+
+5. What is the capital of Maharashtra?
+   A. New Delhi
+
+   B. Mumbai
+
+   C. Hyderabad
+
+   D. Imphal
+
+6. What is the capital of Jharkhand?
+   A. Ranchi
+
+   B. Chennai
+
+   C. Agartala
+
+   D. New Delhi
+
+7. What is the capital of Telangana?
+   A. Mumbai
+
+   B. Patna
+
+   C. Hyderabad
+
+   D. Kohima
+
+8. What is the capital of Uttarakhand?
+   A. Jaipur
+
+   B. Dehradun
+
+   C. Amaravati
+
+   D. New Delhi
+
+9. What is the capital of Dadra and Nagar Haveli and Daman and Diu?
+   A. Daman
+
+   B. Jaipur
+
+   C. Gangtok
+
+   D. Lucknow
+
+10. What is the capital of Assam?
+   A. Dispur
+
+   B. Imphal
+
+   C. Lucknow
+
+   D. Shimla
+
+11. What is the capital of Kerala?
+   A. Kolkata
+
+   B. Leh
+
+   C. Thiruvananthapuram
+
+   D. Amaravati
+
+12. What is the capital of Delhi?
+   A. New Delhi
+
+   B. Chennai
+
+   C. Srinagar
+
+   D. Kolkata
+
+13. What is the capital of Odisha?
+   A. Hyderabad
+
+   B. Bhubaneswar
+
+   C. Chandigarh
+
+   D. Kolkata
+
+14. What is the capital of Bihar?
+   A. Gandhinagar
+
+   B. Kavaratti
+
+   C. Dehradun
+
+   D. Patna
+
+15. What is the capital of Lakshadweep?
+   A. Panaji
+
+   B. Gangtok
+
+   C. Kavaratti
+
+   D. Port Blair
+
+16. What is the capital of Gujarat?
+   A. Gandhinagar
+
+   B. Bhopal
+
+   C. Chandigarh
+
+   D. Shillong
+
+17. What is the capital of Tripura?
+   A. Thiruvananthapuram
+
+   B. Agartala
+
+   C. Amaravati
+
+   D. Bhopal
+
+18. What is the capital of Sikkim?
+   A. Daman
+
+   B. Gangtok
+
+   C. Chennai
+
+   D. Imphal
+
+19. What is the capital of Chandigarh?
+   A. Chandigarh
+
+   B. Srinagar
+
+   C. Gandhinagar
+
+   D. Bengaluru
+
+20. What is the capital of Himachal Pradesh?
+   A. New Delhi
+
+   B. Shimla
+
+   C. Hyderabad
+
+   D. Panaji
+
+21. What is the capital of Tamil Nadu?
+   A. Kohima
+
+   B. Lucknow
+
+   C. Chennai
+
+   D. Kolkata
+
+22. What is the capital of Punjab?
+   A. Shillong
+
+   B. Kohima
+
+   C. Chennai
+
+   D. Chandigarh
+
+23. What is the capital of Goa?
+   A. Ranchi
+
+   B. Panaji
+
+   C. Leh
+
+   D. Bhubaneswar
+
+24. What is the capital of Andaman and Nicobar Islands?
+   A. Port Blair
+
+   B. Chandigarh
+
+   C. Chandigarh
+
+   D. Amaravati
+
+25. What is the capital of Karnataka?
+   A. Gandhinagar
+
+   B. Bengaluru
+
+   C. Kavaratti
+
+   D. Gangtok
+
+26. What is the capital of Puducherry?
+   A. Shimla
+
+   B. Jaipur
+
+   C. Puducherry
+
+   D. New Delhi
+
+27. What is the capital of Haryana?
+   A. Lucknow
+
+   B. Chennai
+
+   C. Shillong
+
+   D. Chandigarh
+
+28. What is the capital of Ladakh?
+   A. Lucknow
+
+   B. Dispur
+
+   C. Panaji
+
+   D. Leh
+
+29. What is the capital of Manipur?
+   A. Chennai
+
+   B. Imphal
+
+   C. Bhopal
+
+   D. Mumbai
+
+30. What is the capital of West Bengal?
+   A. Gandhinagar
+
+   B. Itanagar
+
+   C. Ranchi
+
+   D. Kolkata
+
+31. What is the capital of Andhra Pradesh?
+   A. Amaravati
+
+   B. Thiruvananthapuram
+
+   C. Lucknow
+
+   D. Raipur
+
+32. What is the capital of Chhattisgarh?
+   A. Ranchi
+
+   B. Daman
+
+   C. Dispur
+
+   D. Raipur
+
+33. What is the capital of Uttar Pradesh?
+   A. Lucknow
+
+   B. Leh
+
+   C. Jaipur
+
+   D. Agartala
+
+34. What is the capital of Mizoram?
+   A. Kolkata
+
+   B. Aizawl
+
+   C. Bengaluru
+
+   D. Dispur
+
+35. What is the capital of Nagaland?
+   A. Shimla
+
+   B. Aizawl
+
+   C. Mumbai
+
+   D. Kohima
+
+36. What is the capital of Rajasthan?
+   A. Jaipur
+
+   B. Patna
+
+   C. Itanagar
+
+   D. Gandhinagar
+

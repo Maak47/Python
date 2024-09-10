@@ -1,0 +1,332 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form9)
+
+1. What is the capital of Sikkim?
+   A. Gangtok
+
+   B. Mumbai
+
+   C. Patna
+
+   D. Daman
+
+2. What is the capital of Maharashtra?
+   A. Bhopal
+
+   B. Kolkata
+
+   C. Mumbai
+
+   D. Gangtok
+
+3. What is the capital of Ladakh?
+   A. Shillong
+
+   B. Leh
+
+   C. Srinagar
+
+   D. Chandigarh
+
+4. What is the capital of Mizoram?
+   A. Patna
+
+   B. Kolkata
+
+   C. Aizawl
+
+   D. Port Blair
+
+5. What is the capital of Jammu and Kashmir?
+   A. Bengaluru
+
+   B. Lucknow
+
+   C. Gangtok
+
+   D. Srinagar
+
+6. What is the capital of Dadra and Nagar Haveli and Daman and Diu?
+   A. Chandigarh
+
+   B. Bengaluru
+
+   C. Hyderabad
+
+   D. Daman
+
+7. What is the capital of Assam?
+   A. Dispur
+
+   B. Bhopal
+
+   C. Gandhinagar
+
+   D. Chandigarh
+
+8. What is the capital of Goa?
+   A. Shillong
+
+   B. Chandigarh
+
+   C. Gandhinagar
+
+   D. Panaji
+
+9. What is the capital of Punjab?
+   A. Chandigarh
+
+   B. Panaji
+
+   C. Amaravati
+
+   D. Port Blair
+
+10. What is the capital of Tamil Nadu?
+   A. Bhubaneswar
+
+   B. New Delhi
+
+   C. Gangtok
+
+   D. Chennai
+
+11. What is the capital of Telangana?
+   A. Shillong
+
+   B. Hyderabad
+
+   C. Thiruvananthapuram
+
+   D. Daman
+
+12. What is the capital of Bihar?
+   A. Chennai
+
+   B. Patna
+
+   C. Shillong
+
+   D. Bengaluru
+
+13. What is the capital of Chandigarh?
+   A. Chandigarh
+
+   B. Chandigarh
+
+   C. Shillong
+
+   D. Bengaluru
+
+14. What is the capital of Uttar Pradesh?
+   A. Ranchi
+
+   B. Lucknow
+
+   C. Patna
+
+   D. New Delhi
+
+15. What is the capital of Arunachal Pradesh?
+   A. Imphal
+
+   B. Bhubaneswar
+
+   C. Itanagar
+
+   D. Aizawl
+
+16. What is the capital of Lakshadweep?
+   A. Kavaratti
+
+   B. Bhubaneswar
+
+   C. Mumbai
+
+   D. Raipur
+
+17. What is the capital of Uttarakhand?
+   A. Bengaluru
+
+   B. Port Blair
+
+   C. Dehradun
+
+   D. Kohima
+
+18. What is the capital of Gujarat?
+   A. Gandhinagar
+
+   B. Bhopal
+
+   C. Ranchi
+
+   D. Srinagar
+
+19. What is the capital of Haryana?
+   A. Bengaluru
+
+   B. Itanagar
+
+   C. Kolkata
+
+   D. Chandigarh
+
+20. What is the capital of West Bengal?
+   A. Puducherry
+
+   B. Kohima
+
+   C. Kolkata
+
+   D. Hyderabad
+
+21. What is the capital of Andhra Pradesh?
+   A. Gangtok
+
+   B. Port Blair
+
+   C. Panaji
+
+   D. Amaravati
+
+22. What is the capital of Madhya Pradesh?
+   A. Bhopal
+
+   B. Shillong
+
+   C. Chandigarh
+
+   D. Bengaluru
+
+23. What is the capital of Nagaland?
+   A. Thiruvananthapuram
+
+   B. Patna
+
+   C. Kohima
+
+   D. Chandigarh
+
+24. What is the capital of Puducherry?
+   A. Daman
+
+   B. Bhubaneswar
+
+   C. Jaipur
+
+   D. Puducherry
+
+25. What is the capital of Karnataka?
+   A. Aizawl
+
+   B. Amaravati
+
+   C. Shillong
+
+   D. Bengaluru
+
+26. What is the capital of Odisha?
+   A. Bhubaneswar
+
+   B. Kolkata
+
+   C. Chandigarh
+
+   D. New Delhi
+
+27. What is the capital of Himachal Pradesh?
+   A. Lucknow
+
+   B. Shimla
+
+   C. Dispur
+
+   D. Chandigarh
+
+28. What is the capital of Rajasthan?
+   A. Jaipur
+
+   B. New Delhi
+
+   C. Bengaluru
+
+   D. Kavaratti
+
+29. What is the capital of Chhattisgarh?
+   A. Itanagar
+
+   B. Thiruvananthapuram
+
+   C. Bhopal
+
+   D. Raipur
+
+30. What is the capital of Tripura?
+   A. Gandhinagar
+
+   B. Agartala
+
+   C. Imphal
+
+   D. Shillong
+
+31. What is the capital of Delhi?
+   A. Leh
+
+   B. Chandigarh
+
+   C. New Delhi
+
+   D. Ranchi
+
+32. What is the capital of Jharkhand?
+   A. Patna
+
+   B. Jaipur
+
+   C. Ranchi
+
+   D. Dispur
+
+33. What is the capital of Manipur?
+   A. Imphal
+
+   B. Daman
+
+   C. Ranchi
+
+   D. Gangtok
+
+34. What is the capital of Kerala?
+   A. New Delhi
+
+   B. Bhubaneswar
+
+   C. Thiruvananthapuram
+
+   D. Shimla
+
+35. What is the capital of Andaman and Nicobar Islands?
+   A. Kohima
+
+   B. Port Blair
+
+   C. Chandigarh
+
+   D. Thiruvananthapuram
+
+36. What is the capital of Meghalaya?
+   A. Panaji
+
+   B. Bhubaneswar
+
+   C. Shillong
+
+   D. Lucknow
+
