@@ -5,50 +5,43 @@
 import os, shutil, re
 from pathlib import Path
 
-def insertGaps(directory, position=2):
-    path = Path(directory)    
-    #TODO: list the directory with with os.listdir()
-    listOfFiles = os.listdir(path)
+def insertGaps(directory, position=2, ):
+    files = os.listdir(Path(directory))
+    numList, prefix, suffix = numRegex(files)
 
-    #TODO: add the numbers from filenames to a list
-    numRegex = re.compile(r'^(.*?)(\d*)([0-9])\.(\w+)$', re.IGNORECASE)
+
+    if position < 1 or position > len(numList) + 1:
+        print(f'Invalid position: Position should be between 1 and {len(numList) + 1}')
+        return
+
+    tempDir = Path(directory)  /'tempDirectory'
+    os.mkdir(tempDir)
+
+    maxDigits = len(str(len(numList) + 1))
+    
+    for idx, val in enumerate(numList):
+        newNum = int(val) + 1 if idx >= position - 1 else int(val) 
+        print(f'{files[idx]} is converted into {prefix}{str(newNum).zfill(maxDigits)}{suffix}')
+        shutil.move(Path(directory) / files[idx], tempDir / f'{prefix}{str(newNum).zfill(maxDigits)}{suffix}')
+    
+    for file in os.listdir(tempDir):
+        shutil.move(tempDir / file, Path(directory))
+
+    os.rmdir(tempDir)
+def numRegex(list):
+    numRegex = re.compile(r'^([a-zA-z]+)(\d+)(\.\w+)?')
     numList = []
-    preNum = numRegex.search(listOfFiles[0]).group(2)
-    prefix = ''
-    suffix = ''
-    for file in listOfFiles:
+
+    for file in list:
         match = numRegex.search(file)
         if match:
-            numList.append(match.group(3))
-            if not prefix:
-                prefix = match.group(1)
-            suffix = match.group(4)
-            
-    print(numList)
-    print(preNum)
-    print(f'prefix = {prefix}')
-    print(f'suffix = {suffix}')
-    print(f'position = {position}')
+            numList.append(match.group(2))
+    prefix = numRegex.search(list[0]).group(1)
+    suffix = numRegex.search(list[0]).group(3) 
 
-    #TODO: create a gap in the list
-     # Convert position to string for comparison
-    position_str = str(position)
+    return numList, prefix, suffix
 
-    # Check if position exists in numList
-    if position_str in numList:
-        numList.remove(position_str)
-        numList.append(str(max(map(int, numList)) + 1))
-    else:
-        print(f'No {position} found..')
-        return  # Exit the function if position not found
-
-    print(numList)
     
-    # #TODO: rename the files to new numList:
-    for index, file in enumerate(listOfFiles):
-        print(f'Changing {file} to {prefix}{preNum}{numList[index]}.{suffix}')
-        # shutil.move(Path(path) / file, Path(path) / f'{prefix}{preNum}{numList[index]}\.{suffix}')
-
 #Test
 if __name__ == '__main__':
     insertGaps('C:\\Users\\maak\\spam')
