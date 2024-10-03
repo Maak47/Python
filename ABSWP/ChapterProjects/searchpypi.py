@@ -5,10 +5,10 @@ import webbrowser, bs4, sys, requests, logging
 
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
-
+logging.disable()
 logging.debug('Start of the program')
 print('Searching...')
-res = requests.get('https://pypi.org/search/?=' + ' '.join(sys.argv[1:]))
+res = requests.get('https://pypi.org/search/?q=' + ' '.join(sys.argv[1:]))
 res.raise_for_status()
 logging.debug('request is %(res)s')
 
