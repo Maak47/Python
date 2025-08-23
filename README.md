@@ -1,2 +1,2 @@
 # Python
-Practice and Studying Python in 2025
+Practice and Studying Python 
